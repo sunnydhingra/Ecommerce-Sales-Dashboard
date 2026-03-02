@@ -11,7 +11,10 @@ This project provides a comprehensive overview of e-commerce sales data, enablin
 
 # Tech Stack
 The dashboard was built using the following tools and technologies:
-•	Microsoft Power BI	•	Power Query – Data cleaning and transformation	•	DAX (Data Analysis Expressions) – Measures and calculations	•	Excel / CSV Dataset – Data source (user-provided)
+•	Microsoft Power BI	
+•	Power Query – Data cleaning and transformation
+•	DAX (Data Analysis Expressions) – Measures and calculations	
+•	Excel / CSV Dataset – Data source (user-provided)
 
 # Data Source
 The dataset used in this project was sourced from YouTube for learning and practice purposes.
@@ -41,3 +44,4 @@ The goal of this dashboard is to provide a single, interactive view of e-commerc
 The dashboard is designed to transform raw sales data into meaningful visual insights, enabling faster analysis and better business understanding.
 
 # Screenshot
+https://github.com/sunnydhingra/Ecommerce-Sales-Dashboard/blob/main/PowerBi.png
