@@ -44,4 +44,4 @@ The goal of this dashboard is to provide a single, interactive view of e-commerc
 The dashboard is designed to transform raw sales data into meaningful visual insights, enabling faster analysis and better business understanding.
 
 ### 7. Screenshot
-.com/sunnydhingra/Ecommerce-Sales-Dashboard/blob/main/PowerBi.png
+https://github.com/sunnydhingra/Ecommerce-Sales-Dashboard/blob/main/PowerBi.png
